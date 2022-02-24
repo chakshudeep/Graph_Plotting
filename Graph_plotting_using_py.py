@@ -227,5 +227,7 @@ elif(choice==4):
     histogram()
 elif(choice==5):
     scatter_plot()
+else:
+    print("Invalid Choice ,Try Again !!!")
 
 print("******THANK YOU FOR USING OUR SERVICE******")
